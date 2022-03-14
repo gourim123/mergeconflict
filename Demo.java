@@ -7,6 +7,7 @@ public class Demo
 		System.out.println("Master branch ");
 
 		System.out.println("Branch1 class");
+		System.out.println("Master2 class");
 
 	}
 }
